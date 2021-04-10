@@ -1,0 +1,3 @@
+[submodule "Atmel/Nixie-clock"]
+	path = Atmel/Nixie-clock
+	url = https://github.com/Retrodolivo/Nixie-clock.git
