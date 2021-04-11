@@ -1,3 +1,6 @@
 [submodule "Atmel/Nixie-clock"]
 	path = Atmel/Nixie-clock
 	url = https://github.com/Retrodolivo/Nixie-clock.git
+[submodule "Atmel/Power-bank"]
+	path = Atmel/Power-bank
+	url = https://github.com/Retrodolivo/Power-bank.git
