@@ -4,3 +4,6 @@
 [submodule "Atmel/Power-bank"]
 	path = Atmel/Power-bank
 	url = https://github.com/Retrodolivo/Power-bank.git
+[submodule "STM/LED-controller"]
+	path = STM/LED-controller
+	url = https://github.com/Retrodolivo/LED-controller.git
